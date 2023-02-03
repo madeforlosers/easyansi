@@ -6,11 +6,9 @@ An ANSI escape sequence is a standard for in-band signaling to control things su
 
 
 ## Install
-(I will upload it to NPM when I can, but for now you're stuck with downloading the file and putting it with your project)
+`npm i m.easyansi`
 
-1. download easyansi.js
-2. put it in wherever you need it to
-3. refrence it in your js file (eg: `const easyansi = require("./easyansi.js");` )
+3. refrence it in your js file (eg: `const easyansi = require("m.easyansi");` )
 4. you're good to go
 
 ### docs are in DOCS.md. 
