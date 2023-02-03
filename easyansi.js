@@ -1,4 +1,3 @@
-// trying something out dont expect this to go anywhere
 exports.fromHTML = function(text){
   return text.replace(/\<b\>/g, `\x1B[1m`)
   .replace(/\<dim\>/g, "\x1B[2m")
