@@ -1,0 +1,20 @@
+{
+  "name": "m.easyansi",
+  "description": "Node.js module to make confusing ANSI escape sequences to easy text formatting.",
+  "version": "1.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeforlosers/easyansi.git"
+  },
+  "keywords": [],
+  "author": "madeforlosers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeforlosers/easyansi/issues"
+  },
+  "homepage": "https://github.com/madeforlosers/easyansi",
+  "main": "easyansi.js"
+}
